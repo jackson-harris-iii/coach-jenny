@@ -25,7 +25,7 @@ const Dashboard = () => {
           <Create />
         ) : null}
       </div>
-      <DashFooter />
+      {/* <DashFooter /> */}
     </>
   );
 };
